@@ -1,0 +1,114 @@
+---
+title: "회계학 신조류<br><br>"
+author: "배진한 (Jinhan Pae)"
+date: "2023/03/10"
+date-format: "YYYY년 MM월 DD일"
+
+format: 
+  revealjs:
+    # embed-resources: true
+    theme: [moon, custom.scss]
+    slide-number: true
+    footer: "회계학 신조류 (2023)"
+    
+    chalkboard:
+      theme: whiteboard
+      buttons: true
+---
+
+## ESG Papers
+
+-   [1] The Social Responsibility of Business is to Increase its Profits
+
+        By Milton Friedman - The New York Times Magazine (September 13, 1970)
+         
+
+-   [2] Individual and Corporate Social Responsibility
+
+        By ROLAND BENABOU and JEAN TIROLE - Economica (2010)
+         
+
+-   [3] Which Corporate ESG News Does the Market React To?
+
+        By George Serafeim and Aaron Yoon - The Financial Analyst Journal (2022) 
+         
+
+## [1] The Social Responsibility of Business is to Increase its Profits
+
+*  Business is not concerned "merely" with profit but also with promoting desirable "social" ends,
+for example,
+
+   - providing employment eliminating discrimination
+   - avoiding pollution
+
+*  Is it compatible with a free-enterprise system?
+
+
+## The Social Responsiblity of Business
+
+* Business" as a whole cannot be said to have responsibilities
+
+  - the individuals who are to be responsible are businessmen
+
+* In a free-enterprise, a corporate executive is an employee of the 
+owners of the business.
+
+  - He has direct responsibility to his employers.
+
+
+## The Social Responsiblity of Business (2)
+
+* The responsibility will be generally to **make as much money as possible** while *conforming to basic rules of the society*, unless established for an eleemosynary purpose--for example, a hospital or a school.
+ 
+* The manager is the agent of the individuals who own the corporation or establish the eleemosynary institution, and his primary responsibility is to them. 
+
+
+## The Social Responsibility of Business (3)
+
+* The corporate executive, as a person, he may have many other responsibilities that he recognizes or assumes voluntarily--to his family, his conscience, his feelings of charity, his church, his clubs, his city, his country.
+
+* He is acting as a principal, not an agent; he is spending 
+his own money or time or energy.
+
+## Act in some way that is not in the interest of his employers.
+
+
+What does it mean to say that the corporate executive has a "social responsibility" in his 
+capacity as businessman?
+
+
+*  refrain from increasing the price of the product in order to contribute to the social objective of preventing inflation, even though a price increase would be in the best interests of the corporation. 
+
+## Act in some way that is not in the interest of his employers. (2)
+
+*  make expenditures on reducing pollution beyond the amount that is in the best 
+interests of the corporation or that is required by law in order to contribute to the social 
+objective of improving the environment. 
+
+
+* at the expense of corporate profits, hire "hardcore" unemployed instead of better qualified available workmen to contribute to the 
+social objective of reducing poverty.
+
+
+## Spending someone else's money for a general social interest. 
+
+  - reduce returns to stockholders, he is spending their money. 
+  
+  - raise the price to customers, he is spending the customers' money. 
+  
+  - lower the wages of some employees, he is spending their money.
+
+
+<!-- ## 두번째 2^nd^ Slide {style="color: grey" .smaller} -->
+
+## 두번째 2^nd^ Slide {.smaller}
+
+-   띠띠
+
+    -   뚜루루루 ...
+
+    -   뚜
+
+    -   There are three things.
+
+이 것이 마지막 입니다.
